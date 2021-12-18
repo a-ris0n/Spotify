@@ -2,7 +2,7 @@
 A front-end clone project of the Spotify website. The project was created using basic css,  js and web components. This is my first big project.
 
 ## Preview Link
-- [Spotify clone](https://oguz3-projects.web.app/projects/spotify-clone/)
+- [Spotify clone]()
 
 ## Tech/Framework Used
 * HTML
